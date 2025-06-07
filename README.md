@@ -58,3 +58,9 @@
 ![Informatica](https://img.shields.io/badge/-Informatica-000?&logo=Informatica) 
 ![Qlik View](https://img.shields.io/badge/-Qlik%20View-000?&logo=Qlik&logoColor=00A600) 
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=E97627)
+
+
+
+## 📊 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/VChallagandla?theme=dark&font=baloo&extension=activity)](https://leetcode.com/u/VChallagandla/)
